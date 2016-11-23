@@ -1,0 +1,7 @@
+{
+  "name": "ibuki",
+  "globalDependencies": {
+    "react": "github:DefinitelyTyped/DefinitelyTyped/react/react.d.ts#b4646ff708f39d2896bcb3e3974667f92e26c5a4",
+    "react-dom": "github:DefinitelyTyped/DefinitelyTyped/react/react-dom.d.ts#b4646ff708f39d2896bcb3e3974667f92e26c5a4"
+  }
+}
